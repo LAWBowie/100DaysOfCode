@@ -1,3 +1,3 @@
 # 100DaysOfCode
 
-Projects Udemy 100 days of code course.
+Projects undertaken as Udemy 100 days of code course.
